@@ -8,6 +8,7 @@
         <?php
         echo "IDEAUT";
         echo "ideaut";
+        echo "IdEaUt";
         ?>
     </body>
 </html>
