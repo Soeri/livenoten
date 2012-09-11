@@ -9,7 +9,6 @@
         echo "IDEAUT";
         echo "ideaut";
         echo "IdEaUt";
-        echo "abSEITS!";
         ?>
     </body>
 </html>
