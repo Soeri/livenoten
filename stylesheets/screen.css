@@ -1,12 +1,22 @@
-/* 
-    Document   : screen
-    Created on : 11.09.2012, 23:34:23
-    Author     : Jan
-    Description:
-        Purpose of the stylesheet follows.
-*/
-
-root { 
-    display: block;
+body {
+    margin: 0px auto;
+    text-align:center;
+}
+#header {
+    background-color: red;
+    height: 79px;
+    border: 0px;
+}
+#headercontainer {
+    max-width: 900px;
+    min-width: 900px;
+    position:relative;
+    margin: auto;
+}
+#logo {
+    background-image: url(../images/logo.png);
+    width: 340px;
+    height: 69px;
+    padding: 5px;
 }
 
