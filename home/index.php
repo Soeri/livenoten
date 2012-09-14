@@ -9,8 +9,7 @@
     <body>
         <div id="header">
             <div id="headercontainer">
-                <div id="logo" />
-                <?php echo "IDEAUTIDEAUT!!!IDEAUTIDEAUT!!!IDEAUTIDEAUT!!!IDEAUTIDEAUT!!!IDEAUTIDEAUT!!!"; ?>
+                <div id="logo"></div>       
             </div>
         </div>
         <div id="content">

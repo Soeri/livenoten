@@ -3,9 +3,9 @@ body {
     text-align:center;
 }
 #header {
-    background-color: red;
+    background-color: #cfcfcf;
+    border-bottom: 1px solid #7e7e7e;
     height: 79px;
-    border: 0px;
 }
 #headercontainer {
     max-width: 900px;
@@ -18,5 +18,29 @@ body {
     width: 340px;
     height: 69px;
     padding: 5px;
+}
+#footer {
+    padding: 10px;
+    position: relative;
+    min-width: 800px;
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+
+}
+.footertext {
+    font: bold 0.5em Tahoma, Verdana, sans-serif;
+    color: #7e7e7e;
+}
+
+a.footerlink:link, a.footerlink:visited {
+    font: bold 1.0em Tahoma, Verdana, sans-serif;
+    color: #7e7e7e;
+    text-decoration:none;
+}
+a.footerlink:hover {
+    font: bold 1.0em Tahoma, Verdana, sans-serif;
+    color: #7e7e7e;
+    text-decoration:underline;
 }
 
