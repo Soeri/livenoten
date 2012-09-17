@@ -9,11 +9,18 @@
     <body>
         <div id="header">
             <div id="headercontainer">
-                <div id="logo"></div>       
-            </div>
-        </div>
-        <div id="content">
+                <div id="logo"></div>  
 
+            </div>  
+
+        </div>   
+        <div id="content">
+            <?php include "../menu/menu.php"; ?>
+            <?php echo "bla IDEUT<br />"; ?>
+            <?php echo "bla IDEUT<br />"; ?>
+            <?php echo "bla IDEUT<br />"; ?>
+            <?php echo "bla IDEUT<br />"; ?>
+            <?php echo "bla IDEUT<br />"; ?>
         </div>
         <?php include '../menu/footer.php'; ?>
     </body>
