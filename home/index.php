@@ -109,8 +109,6 @@
                 <img src="../images/example-frame.png" width="739" height="341" alt="Example Frame" id="frame">
             </div>
             <?php echo "bla IDEUT<br />"; ?>
-            <?php echo "bla IDEUT<br />"; ?>
-            <?php echo "bla IDEUT<br />"; ?>
         </div>
         <?php include '../menu/footer.php'; ?>
     </body>

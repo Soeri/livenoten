@@ -7,6 +7,7 @@ echo "<div id='cssmenu'>
       <ul>
          <li><a href='#'><span>Bundesliga</span></a></li>
          <li><a href='#'><span>Champions-League</span></a></li>
+         <li><a href='#'><span>WM 2014</span></a></li>
       </ul>
    </li>
    <li><a href='#'><span>Statistiken</span></a></li>

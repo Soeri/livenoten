@@ -26,6 +26,10 @@ body {
     max-width: 900px;
 
 }
+
+/*
+* Footer
+*/
 #footer {
     padding: 10px;
     position: relative;
@@ -50,7 +54,9 @@ a.footerlink:hover {
     color: #7e7e7e;
     text-decoration:underline;
 }
-
+/*
+* Menu
+*/
 #cssmenu { padding: 10px 0px 10px 0px;}
 #cssmenu ul {margin: 0; padding: 7px 6px 0; background: #7d7d7d url(../images/overlay.png) repeat-x 0 -110px; line-height: 100%; font: normal .70em/1.0em Arial, Helvetica, sans-serif;   -webkit-box-shadow: 0 1px 3px rgba(0,0,0, .4); -moz-box-shadow: 0 1px 3px rgba(0,0,0, .4);}
 #cssmenu li {margin: 0 5px; padding: 0 0 8px; float: left; position: relative; list-style: none; }

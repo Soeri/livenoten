@@ -21,23 +21,12 @@
 	left:-80px;
 }
 
-/*
-	Slideshow
-*/
-
 #slides {
 	position:absolute;
 	top:15px;
 	left:4px;
 	z-index:100;
 }
-
-/*
-	Slides container
-	Important:
-	Set the width of your slides container
-	Set to display none, prevents content flash
-*/
 
 .slides_container {
 	width:570px;
